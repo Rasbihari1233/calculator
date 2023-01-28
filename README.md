@@ -4,7 +4,7 @@ This is a multi-tasking calculator
 
 ## Authors
 
-- [@rohitashsingh](https://www.github.com/Rasbihari1233/)
+- [@Rasbihari1233](https://www.github.com/Rasbihari1233/)
 
 
 ## Badges
